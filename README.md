@@ -1,6 +1,7 @@
 ## Hi! I am Daniil!
+I am Python Backend Developer. I like to learn something new in programming.
 
-## Technologies:
+## Technologies
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp
@@ -13,12 +14,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="redis" alt="redis" width="40" height="40"/>&nbsp
 </div>
 
-## Tools:
+## Tools
 <div>
-  <img src="https://avatars.mds.yandex.net/get-entity_search/5631834/551847692/S122x122Fit_2x" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.mds.yandex.net/get-entity_search/52698/226735015/S122x122Fit_2x" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.mds.yandex.net/get-entity_search/5631834/551847692/S122x122Fit_2x" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.mds.yandex.net/get-entity_search/52698/226735015/S122x122Fit_2x" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
-  <img src="https://avatars.mds.yandex.net/get-entity_search/1948726/605274720/S122x122Fit_2x" title="Notion" alt="Notion" width="40" height="40"/>&nbsp;
+  <img src="https://avatars.mds.yandex.net/get-entity_search/1948726/605274720/S122x122Fit_2x" title="obsidian" alt="obsidian" width="40" height="40"/>&nbsp;
 </div>
 
 
