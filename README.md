@@ -28,6 +28,10 @@ I am Python Backend Developer. I like to learn something new in programming.
 [![Gmail](https://img.shields.io/badge/-Gmail-20232A?style=for-the-badge&logo=gmail&logoColor=61DAFB)](mailto:daniil.solo1723@gmail.com)
 [![Stepik](https://img.shields.io/badge/-Stepik-20232A?style=for-the-badge&logo=simkl&logoColor=61DAFB)](https://stepik.org/users/273475945)
 
+## My achievements
+- 1-th place at __AI Talent Hub Hackathon 2023__ in section __Machine Learning in Retail__ 
+  - System Design, Backend (FastAPI, PostgreSQL, Redis, Celery), Frontend (React), Deployment
+
 ## Statistics
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniil-solo&theme=react)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniil-solo&theme=react)
