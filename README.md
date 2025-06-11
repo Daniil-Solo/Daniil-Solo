@@ -46,6 +46,11 @@ I am Python Backend Developer. I like to learn something new in programming.
 [![Stepik](https://img.shields.io/badge/-Stepik-20232A?style=for-the-badge&logo=simkl&logoColor=61DAFB)](https://stepik.org/users/273475945)
 
 ## My achievements
+- author of the course __Development of AI/LLM applications in Python: from idea to release 2025__ ([Stepik](https://stepik.org/course/215591/promo), [GitHub](https://github.com/AI-Product-Course/Lectures))
+  - Ollama, OpenAI API, Mistral AI API, LangChain + LangGraph
+  - FastAPI, SQLAlchemy, Chainlit
+  - PostgreSQL, Redis, Qdrant
+  - Arize Phoenix, Grafana, Promeheus, Loki
 - 1-th place at __AI Talent Hub Hackathon 2023__ in section __Machine Learning in Retail__ 
   - System Design, Backend (FastAPI, PostgreSQL, Redis, Celery), Frontend (React), Deployment
 
