@@ -1,5 +1,5 @@
 ## Hi! I am Daniil!
-I am Python Backend Developer. I like to learn something new in programming.
+I am FullCycle Developer. I like to learn something new in programming.
 
 ## Technologies
 
